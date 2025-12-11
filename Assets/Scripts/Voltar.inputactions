@@ -1,0 +1,34 @@
+{
+    "name": "Voltar",
+    "maps": [
+        {
+            "name": "VIVE",
+            "id": "dcb328b1-2f16-4ffc-bb38-99a9f16a2f17",
+            "actions": [
+                {
+                    "name": "Back",
+                    "type": "Button",
+                    "id": "807a6d73-b8f7-471e-8d25-85d2cfd4b4f7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "59a16de9-998c-47fb-beae-eaf3011ae94e",
+                    "path": "<XRController>{LeftHand}/{Back}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
